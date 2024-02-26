@@ -1,0 +1,959 @@
+2024-02-25 18:44:33 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 18:44:33 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 18:44:33 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 18:44:33 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 18:44:33 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 18:44:34 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 18:44:34 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 18:44:34 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 18:44:34 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 18:44:34 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 18:44:34 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 18:44:35 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 18:44:35 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-25 18:44:35 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 18:44:36 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 18:44:37 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 18:44:37 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 18:44:37 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 18:44:37 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 18:44:37 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 18:44:37 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 18:44:37 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 18:44:37 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 18:44:41 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 18:44:41 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 18:44:41 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 18:44:41 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 18:44:41 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 18:44:42 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 18:44:43 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 18:44:43 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 18:44:43 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 18:44:43 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 18:44:43 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 18:44:43 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 18:44:43 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 18:44:43 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 18:44:43 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-25 18:44:46 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 18:44:46 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 18:44:48 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 18:44:48 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 18:44:48 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-25 18:44:48 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-25 18:44:48 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-25 18:44:49 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 18:44:49 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-25 18:44:50 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 19:33:15 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 19:33:15 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 19:33:15 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 19:33:15 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 19:33:15 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 19:33:16 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 19:33:16 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 19:33:16 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 19:33:16 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 19:33:16 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 19:33:17 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 19:33:17 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 19:33:17 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-25 19:33:17 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 19:33:19 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 19:33:19 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 19:33:19 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 19:33:19 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 19:33:19 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 19:33:20 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 19:33:20 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 19:33:20 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 19:33:20 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 19:33:22 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 19:33:22 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 19:33:24 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 19:33:24 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 19:33:25 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 19:33:26 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 19:33:26 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 19:33:26 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 19:33:26 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 19:33:26 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 19:33:27 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 19:33:27 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 19:33:27 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 19:33:27 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 19:33:27 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-25 19:33:29 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 19:33:29 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 19:33:31 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 19:33:31 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 19:33:31 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-25 19:33:32 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-25 19:33:32 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-25 19:33:33 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 19:33:33 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-25 19:33:34 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 19:33:35 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 19:33:35 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 19:33:35 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 19:33:35 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 19:33:35 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 19:33:35 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 19:33:36 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 19:33:36 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 19:33:36 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 19:58:19 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 19:58:19 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 19:58:19 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 19:58:19 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 19:58:19 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 19:58:20 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 19:58:20 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 19:58:20 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 19:58:20 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 19:58:20 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 19:58:21 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 19:58:21 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 19:58:21 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-25 19:58:21 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 19:58:22 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 19:58:23 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 19:58:23 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 19:58:23 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 19:58:23 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 19:58:23 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 19:58:23 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 19:58:23 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 19:58:23 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 19:58:26 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 19:58:26 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 19:58:28 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 19:58:28 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 19:58:28 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 19:58:29 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 19:58:30 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 19:58:30 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 19:58:30 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 19:58:30 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 19:58:31 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 19:58:31 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 19:58:31 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 19:58:31 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 19:58:31 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-25 19:58:34 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 19:58:34 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 19:58:35 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 19:58:35 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 19:58:35 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-25 19:58:36 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-25 19:58:36 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-25 19:58:37 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 19:58:37 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-25 19:58:37 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 19:58:38 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 19:58:39 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 19:58:39 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 19:58:39 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 19:58:39 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 19:58:39 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 19:58:39 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 19:58:39 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 19:58:40 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 19:58:40 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 19:58:40 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:33:17 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:33:17 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:33:17 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:33:17 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:33:17 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:33:18 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:33:18 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:33:18 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 20:33:18 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:33:18 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 20:33:19 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 20:33:19 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 20:33:19 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-25 20:33:19 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:33:20 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:33:21 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:33:21 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:33:21 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:33:21 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:33:22 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:33:22 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:33:22 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 20:33:22 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:33:24 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 20:33:24 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 20:33:26 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:33:26 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 20:33:26 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:33:27 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:33:28 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:33:28 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:33:28 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:33:28 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:33:29 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:33:29 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:33:29 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 20:33:29 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:33:29 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-25 20:33:31 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 20:33:31 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 20:33:33 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:33:33 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 20:33:33 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-25 20:33:33 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-25 20:33:34 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-25 20:33:35 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:33:35 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-25 20:33:35 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:33:36 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:33:36 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:33:36 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:33:36 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:33:36 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:33:37 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:33:37 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:33:37 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 20:33:37 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:33:37 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 20:33:37 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:33:39 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:33:39 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:33:39 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:33:39 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:33:39 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:33:39 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:48:36 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:48:37 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:48:37 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:48:37 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:48:37 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:48:37 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:48:38 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:48:38 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 20:48:38 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:48:38 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 20:48:38 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 20:48:39 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 20:48:39 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-25 20:48:39 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:48:40 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:48:40 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:48:40 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:48:41 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:48:41 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:48:41 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:48:41 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:48:41 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 20:48:41 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:48:44 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 20:48:44 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 20:48:45 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:48:45 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 20:48:46 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:48:47 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:48:47 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:48:47 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:48:47 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:48:47 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:48:48 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:48:48 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:48:48 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 20:48:48 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:48:48 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-25 20:48:52 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 20:48:52 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 20:48:52 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:48:52 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 20:48:52 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-25 20:48:52 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-25 20:48:53 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-25 20:48:54 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:48:54 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-25 20:48:54 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:48:55 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:48:56 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:48:56 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:48:56 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:48:56 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:48:56 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:48:56 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:48:56 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 20:48:56 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:48:56 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 20:48:57 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:48:58 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:48:58 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:48:58 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:48:58 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:48:58 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:48:59 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:48:59 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:48:59 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 20:48:59 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 20:48:59 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Test case is passed
+2024-02-25 20:49:00 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:52:43 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:52:44 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:52:44 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:52:44 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:52:44 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:52:44 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:52:44 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:52:44 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 20:52:45 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:52:45 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 20:52:45 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 20:52:45 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 20:52:45 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-25 20:52:46 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:52:47 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:52:47 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:52:47 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:52:47 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:52:47 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:52:48 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:52:48 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:52:48 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 20:52:48 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:52:51 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 20:52:51 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 20:52:53 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:52:53 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 20:52:53 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:52:54 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:52:55 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:52:55 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:52:55 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:52:55 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:52:55 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:52:55 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:52:55 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 20:52:56 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:52:56 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-25 20:52:58 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 20:52:58 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 20:53:00 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:53:00 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 20:53:00 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-25 20:53:00 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-25 20:53:00 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-25 20:53:01 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:53:01 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-25 20:53:02 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:53:03 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:53:03 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:53:03 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:53:03 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:53:03 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:53:04 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:53:04 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:53:04 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 20:53:04 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:53:04 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 20:53:04 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:53:05 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:53:06 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:53:06 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:53:06 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:53:06 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:53:06 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:53:07 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:53:07 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 20:53:07 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 20:53:07 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Test case is passed
+2024-02-25 20:53:07 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:55:30 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:55:31 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:55:31 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:55:31 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:55:31 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:55:31 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:55:31 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:55:31 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 20:55:32 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:55:32 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 20:55:32 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 20:55:32 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 20:55:32 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-25 20:55:33 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:55:34 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:55:34 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:55:34 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:55:34 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:55:34 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:55:35 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:55:35 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:55:35 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 20:55:35 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:55:38 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 20:55:38 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 20:55:39 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:55:39 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 20:55:39 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:55:41 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:55:41 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:55:41 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:55:41 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:55:41 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:55:42 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:55:42 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:55:42 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 20:55:42 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:55:42 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-25 20:55:44 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 20:55:44 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 20:55:46 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:55:46 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 20:55:46 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-25 20:55:46 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-25 20:55:46 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-25 20:55:48 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:55:48 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-25 20:55:48 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:55:49 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:55:49 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:55:49 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:55:49 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:55:49 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:55:50 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:55:50 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 20:55:50 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 20:55:50 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:55:50 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 20:55:51 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 20:55:52 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 20:55:52 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 20:55:52 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 20:55:52 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 20:55:52 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 20:55:53 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 20:55:53 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 20:55:53 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 20:55:53 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 20:55:53 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Test case is passed
+2024-02-25 20:55:54 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:15:28 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:15:29 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:15:29 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:15:29 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:15:29 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:15:29 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:15:30 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:15:30 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:15:30 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:15:30 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 21:15:30 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:15:31 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 21:15:31 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-25 21:15:31 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:15:32 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:15:32 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:15:32 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:15:33 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:15:33 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:15:33 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:15:33 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:15:33 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:15:33 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:15:36 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:15:36 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 21:15:38 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:15:38 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 21:15:38 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:15:39 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:15:40 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:15:40 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:15:40 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:15:40 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:15:40 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:15:40 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:15:40 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:15:41 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:15:41 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-25 21:15:43 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:15:43 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 21:15:45 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:15:45 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 21:15:45 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-25 21:15:45 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-25 21:15:45 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-25 21:15:46 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:15:46 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-25 21:15:47 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:15:48 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:15:48 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:15:48 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:15:48 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:15:48 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:15:49 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:15:49 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:15:49 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:15:49 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:15:49 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 21:15:49 [main] INFO  com.Salesforce.pages.base.BasePage - Forgot Password button button is clicked
+2024-02-25 21:15:49 [main] INFO  com.Salesforce.pages.base.BasePage - Continue button button is clicked
+2024-02-25 21:15:50 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Check Email header
+2024-02-25 21:15:50 [main] ERROR com.Salesforce.pages.base.BasePage - Check Email Header Test case failed
+2024-02-25 21:15:50 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:15:51 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:15:51 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:15:51 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:15:51 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:15:51 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:15:52 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:15:52 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:15:52 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:15:52 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 21:15:52 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Test case is passed
+2024-02-25 21:15:53 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:33:56 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:33:56 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:33:56 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:33:56 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:33:56 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:33:57 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:33:57 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:33:57 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:33:57 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:33:57 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 21:33:58 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:33:58 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 21:33:58 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-25 21:33:59 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:34:00 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:34:01 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:34:01 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:34:01 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:34:01 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:34:01 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:34:01 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:34:01 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:34:02 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:34:04 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:34:04 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 21:34:06 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:34:06 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 21:34:06 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:34:08 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:34:08 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:34:08 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:34:08 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:34:08 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:34:09 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:34:09 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:34:09 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:34:09 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:34:09 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-25 21:34:12 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:34:12 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 21:34:13 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:34:13 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 21:34:13 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-25 21:34:14 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-25 21:34:14 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-25 21:34:15 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:34:15 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-25 21:34:16 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:34:17 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:34:18 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:34:18 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:34:18 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:34:18 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:34:18 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:34:18 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:34:18 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:34:19 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:34:19 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 21:34:19 [main] INFO  com.Salesforce.pages.base.BasePage - Forgot Password button button is clicked
+2024-02-25 21:34:19 [main] INFO  com.Salesforce.pages.base.BasePage - Continue button button is clicked
+2024-02-25 21:34:19 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Check Email header
+2024-02-25 21:34:19 [main] ERROR com.Salesforce.pages.base.BasePage - Check Email Header Test case failed
+2024-02-25 21:34:19 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:34:21 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:34:21 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:34:21 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:34:21 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:34:21 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:34:22 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:34:22 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:34:22 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:34:23 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 21:34:23 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Test case is passed
+2024-02-25 21:34:23 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:38:35 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:38:35 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:38:35 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:38:35 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:38:35 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:38:36 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:38:36 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:38:36 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:38:36 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:38:36 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 21:38:37 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:38:37 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 21:38:37 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-25 21:38:37 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:38:39 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:38:39 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:38:39 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:38:39 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:38:39 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:38:40 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:38:40 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:38:40 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:38:40 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:38:42 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:38:42 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 21:38:44 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:38:44 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 21:38:45 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:38:46 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:38:46 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:38:46 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:38:46 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:38:46 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:38:46 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:38:47 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:38:47 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:38:47 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:38:47 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-25 21:38:49 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:38:49 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 21:38:51 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:38:51 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 21:38:51 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-25 21:38:51 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-25 21:38:51 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-25 21:38:52 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:38:52 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-25 21:38:53 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:38:54 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:38:55 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:38:55 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:38:55 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:38:55 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:38:55 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:38:55 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:38:55 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:38:55 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:38:55 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 21:38:56 [main] INFO  com.Salesforce.pages.base.BasePage - Forgot Password button button is clicked
+2024-02-25 21:38:56 [main] INFO  com.Salesforce.pages.base.BasePage - Continue button button is clicked
+2024-02-25 21:38:56 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Check Email header
+2024-02-25 21:38:56 [main] ERROR com.Salesforce.pages.base.BasePage - Check Email Header Test case failed
+2024-02-25 21:38:56 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:38:57 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:38:58 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:38:58 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:38:58 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:38:58 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:38:58 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:38:59 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:38:59 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:38:59 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 21:38:59 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Test case is passed
+2024-02-25 21:38:59 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:39:40 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:39:40 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:39:40 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:39:41 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:39:41 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:39:41 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:39:41 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:39:41 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:39:41 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:39:41 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 21:39:42 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:39:42 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 21:39:42 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-25 21:39:43 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:39:44 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:39:44 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:39:44 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:39:44 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:39:44 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:39:45 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:39:45 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:39:45 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:39:45 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:39:47 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:39:47 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 21:39:49 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:39:49 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 21:39:49 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:39:51 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:39:51 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:39:51 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:39:51 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:39:51 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:39:51 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:39:52 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:39:52 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:39:52 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:39:52 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-25 21:39:54 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:39:54 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 21:39:56 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:39:56 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 21:39:56 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-25 21:39:56 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-25 21:39:56 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-25 21:39:58 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:39:58 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-25 21:39:58 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:39:59 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:39:59 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:39:59 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:40:00 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:40:00 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:40:00 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:40:00 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:40:00 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:40:00 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:40:00 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 21:40:01 [main] INFO  com.Salesforce.pages.base.BasePage - Forgot Password button button is clicked
+2024-02-25 21:40:01 [main] INFO  com.Salesforce.pages.base.BasePage - Continue button button is clicked
+2024-02-25 21:40:01 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Check Email header
+2024-02-25 21:40:01 [main] ERROR com.Salesforce.pages.base.BasePage - Check Email Header Test case failed
+2024-02-25 21:40:01 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:40:02 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:40:03 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:40:03 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:40:03 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:40:03 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:40:04 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:40:04 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:40:04 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:40:04 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 21:40:04 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Test case is passed
+2024-02-25 21:40:05 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:41:54 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:41:55 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:41:55 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:41:55 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:41:55 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:41:56 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:41:56 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:41:56 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:41:56 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:41:56 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 21:41:57 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:41:57 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 21:41:57 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-25 21:41:57 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:41:58 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:41:58 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:41:58 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:41:59 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:41:59 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:41:59 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:41:59 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:41:59 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:42:00 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:42:02 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:42:02 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 21:42:04 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:42:04 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 21:42:04 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:42:05 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:42:06 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:42:06 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:42:06 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:42:06 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:42:06 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:42:07 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:42:07 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:42:07 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:42:07 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-25 21:42:09 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:42:09 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 21:42:11 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:42:11 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 21:42:11 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-25 21:42:11 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-25 21:42:11 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-25 21:42:12 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:42:12 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-25 21:42:13 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:42:14 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:42:14 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:42:14 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:42:14 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:42:14 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:42:15 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:42:15 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:42:15 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:42:15 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:42:15 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 21:42:15 [main] INFO  com.Salesforce.pages.base.BasePage - Forgot Password button button is clicked
+2024-02-25 21:42:21 [main] INFO  com.Salesforce.pages.base.BasePage - Continue button button is clicked
+2024-02-25 21:42:26 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Check Email header
+2024-02-25 21:42:26 [main] ERROR com.Salesforce.pages.base.BasePage - Check Email Header Test case failed
+2024-02-25 21:42:26 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:42:27 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:42:28 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:42:28 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:42:28 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:42:28 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:42:28 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:42:29 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:42:29 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:42:29 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 21:42:29 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Test case is passed
+2024-02-25 21:42:30 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:45:05 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:45:06 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:45:06 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:45:06 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:45:06 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:45:06 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:45:06 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:45:06 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:45:07 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:45:07 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 21:45:07 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:45:07 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 21:45:07 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-25 21:45:08 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:45:09 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:45:09 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:45:09 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:45:09 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:45:09 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:45:10 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:45:10 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:45:10 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:45:10 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:45:13 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:45:13 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 21:45:15 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:45:15 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 21:45:15 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:45:16 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:45:17 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:45:17 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:45:17 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:45:17 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:45:17 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:45:17 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:45:17 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:45:18 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:45:18 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-25 21:45:20 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:45:20 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 21:45:22 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:45:22 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 21:45:22 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-25 21:45:22 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-25 21:45:22 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-25 21:45:23 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:45:23 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-25 21:45:23 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:45:25 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:45:25 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:45:25 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:45:25 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:45:25 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:45:25 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:45:26 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:45:26 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:45:26 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:45:26 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 21:45:26 [main] INFO  com.Salesforce.pages.base.BasePage - Forgot Password button button is clicked
+2024-02-25 21:45:31 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-25 21:45:32 [main] INFO  com.Salesforce.pages.base.BasePage - Continue button button is clicked
+2024-02-25 21:45:37 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Check Email header
+2024-02-25 21:45:37 [main] INFO  com.Salesforce.pages.base.BasePage - Check Email Header Test case is passed
+2024-02-25 21:45:38 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:45:39 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:45:39 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:45:39 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:45:39 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:45:39 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:45:40 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:45:40 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:45:40 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:45:40 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 21:45:40 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Test case is passed
+2024-02-25 21:45:41 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:47:02 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:47:03 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:47:03 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:47:03 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:47:03 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:47:04 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:47:04 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:47:04 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:47:04 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:47:04 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 21:47:04 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:47:05 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 21:47:05 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Element Test case is passed
+2024-02-25 21:47:05 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:47:06 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:47:07 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:47:07 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:47:07 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:47:07 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:47:07 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:47:08 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:47:08 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:47:08 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:47:10 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:47:10 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 21:47:12 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:47:12 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 21:47:12 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:47:14 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:47:14 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:47:14 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:47:14 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:47:14 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:47:15 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:47:15 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:47:15 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:47:15 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:47:15 [main] INFO  com.Salesforce.pages.base.BasePage - check box element is checked
+2024-02-25 21:47:17 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:47:17 [main] INFO  com.Salesforce.pages.base.BasePage - Home Page is waiting for visibility
+2024-02-25 21:47:18 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:47:18 [main] INFO  com.Salesforce.pages.base.BasePage - HomePage display Test case is passed
+2024-02-25 21:47:18 [main] INFO  com.Salesforce.pages.base.BasePage - Usermenu dropdown is waiting for visibility
+2024-02-25 21:47:19 [main] INFO  com.Salesforce.pages.base.BasePage - User Navigation Dropdown button is clicked
+2024-02-25 21:47:19 [main] INFO  com.Salesforce.pages.base.BasePage - logout button button is clicked
+2024-02-25 21:47:20 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:47:20 [main] INFO  com.Salesforce.pages.base.BasePage - User TxtBox is populated with valid User Id Test case is passed
+2024-02-25 21:47:21 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:47:22 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:47:23 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:47:23 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:47:23 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:47:23 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:47:23 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:47:23 [main] INFO  com.Salesforce.pages.base.BasePage - Attribute value is extracted from Username value
+2024-02-25 21:47:23 [main] INFO  com.Salesforce.pages.base.BasePage - Username text visible Test case is passed
+2024-02-25 21:47:23 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:47:23 [main] INFO  com.Salesforce.pages.base.BasePage - Password txt is empty Test case is passed
+2024-02-25 21:47:24 [main] INFO  com.Salesforce.pages.base.BasePage - Forgot Password button button is clicked
+2024-02-25 21:47:24 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username textbox textbox
+2024-02-25 21:47:24 [main] INFO  com.Salesforce.pages.base.BasePage - Continue button button is clicked
+2024-02-25 21:47:24 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Check Email header
+2024-02-25 21:47:25 [main] INFO  com.Salesforce.pages.base.BasePage - Check Email Header Test case is passed
+2024-02-25 21:47:25 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
+2024-02-25 21:47:26 [main] INFO  com.Salesforce.utilities.Log4JUtility - Title of the current page extracted
+2024-02-25 21:47:27 [main] INFO  com.Salesforce.utilities.Log4JUtility - https://login.salesforce.com/is entered
+2024-02-25 21:47:27 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page is waiting for visibility
+2024-02-25 21:47:27 [main] INFO  com.Salesforce.pages.base.BasePage - Title text fetched from the current title
+2024-02-25 21:47:27 [main] INFO  com.Salesforce.pages.base.BasePage - Login Page title Test case is passed
+2024-02-25 21:47:27 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Username  textbox
+2024-02-25 21:47:27 [main] INFO  com.Salesforce.pages.base.BasePage - data is entered in Password textbox
+2024-02-25 21:47:28 [main] INFO  com.Salesforce.pages.base.BasePage - Login button button is clicked
+2024-02-25 21:47:28 [main] INFO  com.Salesforce.pages.base.BasePage - text is extracted from Error Message Element
+2024-02-25 21:47:28 [main] INFO  com.Salesforce.pages.base.BasePage - Error Message Test case is passed
+2024-02-25 21:47:28 [main] INFO  com.Salesforce.utilities.Log4JUtility - current browser closed
